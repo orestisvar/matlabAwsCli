@@ -1,2 +1,2 @@
 # matlabAwsCli
-aws cli basics wrapped in matlab functions
+AWS CLI basics wrapped in matlab functions
